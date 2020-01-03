@@ -75,6 +75,7 @@
     - { role: telly, tags: ['telly'] }
     - { role: thelounge, tags: ['thelounge'] }
     - { role: transmissionvpn, tags: ['transmissionvpn'] }
+    - { role: ubooquity, tags: ['ubooquity'] }
     - { role: unifi, tags: ['unifi'] }
     - { role: unmanic, tags: ['unmanic'] }
     - { role: watchtower, tags: ['watchtower'] }
